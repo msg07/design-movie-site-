@@ -1,0 +1,50 @@
+body {
+   
+    background-repeat: repeat;
+    overflow: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDQ0NDQ4NDw0ODQ0NDQ8NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFRAQFysdFRkrKysrKy0tKystLS0tLS0rLSsrKystLSsrKy0tNzc3LS0rKys3LTctLTctNy0tKzctN//AABEIAK4BIgMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAAAQIDBAb/xAAhEAEBAQEBAAAHAQEAAAAAAAAAAQIREgMTITFBUXFhsf/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMGBf/EABsRAQEBAQEAAwAAAAAAAAAAAAARARICITFR/9oADAMBAAIRAxEAPwDzPR1n0PrR7OtD6y6JSHTTp9QPSRasdR0iJVXRWkFShUpJtD6ajrKapzSRel9IpTqglEpQAvpolK/Fk/1ItaF1HsdIVXSAAABUAIdA7pnaZCbq5R1OaqiqlNHeD2kWrK1NJYlV6CQQqehnKfWoxVDpei6FV0poiErWU2MV8yT7pFrQrU3aekKu0iNQRSVIuEPaNaJYlayldufe/svOu/05TtVvQBALN40ZHnRuJmtB0BGx6p+02s7Vib6jX5sOan7c4XlnvXSTCVc3Ui9LXGU3/is7iRrNwbqRaSpuqmldQLSFX0Mugh0nsVKwzVWtRzz0vVTdFKBKqaF2UQQq7qp0E2qm6eN8/jRiedcXcTNjUdv7pS9DLZ+6c137pLpEutO8TaXSpF3U1SapWcaZ13+qjBrjff6zuN5pGV+9L0qLlVdRjdEkXpdoTKaoRkBDMgKYtLpWhVTR+mV3+kzdInTf0TObXKLm0wkgqBaLeMbv6tSuW7G3VysPVOfEIuem1+yBdywhd2q6nppE1UFhRVBMvGmdd/qLEi5sbI0eN9+/3Tu/VF3fhWabLpz4ixKtWWfzJ/pz40+35SatxdZ62nWrUrmM76/F/Mt+5zaIVWJda+h6jPNNItaWwe0JtIVr6HplKCHTX2LuMk0h02u0pzVCWgjIAOjqbVK09mw9/wAM5Tsta79UKqa0xq806jNXUXEqmkZO0RfuKlYdMi56bNHPN0/n/iRI1nrG1Z63Iy1q370lzym+1X4n6E3+0hYzdaky9cVNdSL0d0imKrOrxpTFedG41mtImqiKi6appnan0ROo1uiRNn6IVS2Xse/wQqrQUpgOtJe/VlTzo1c1dLo3WV0mYu7FXSQGnPdoCegQ/cHqOeVcrXKZ7rT1P2q67P8ArEEOm2StZ+79h6SLVnKj0PREq9VEv1Hr9ksK0BZpxGjTrXC3v9IXMZ3QcvCNUaSmyzeNYy1m0rClVWd0H0098+hWsx74RN9LTUzcqlLSVNJIGhUpRaLVSn1EquoU/ZXaLpHVib6ae/2tlRnXCFammXo0il0gFRjDlQppyaShmd2kaoOI6LtYlX6HUdHohViaZ+h6IdOjOoNb/Ec9oztOV7aiJmoLtSrNjdUpSHTa2DPxOfxl0dSHTXW+puk3SbVib6LXxL1c+rCqxrjUYz18tKJTv1SjTSbP1GZaqRemnoM4CFaHGReqQ6a2hM0c0LV5FKC7RaJeL99Y2lCJ02DL5v8AoIvWJg6z9jrccul3RdiRaJV+iQArSU2fpcouaVBWgN1UpCUrQo/J9R6O0iVfS6z79VkLRaRpUaz7FssX6BFSIdhKyvN5/D0mCX8fj/iNVVqS6AVmqQuVNXE1MGr0KmnKqs7SIlX0Wp9C0KrqbR0qpTBwAgukFYX6L0kEWq6XSAh9HSAH0EAMAgUZQ6Kk80gC6RXRBV50fqMgkOmvqEzBCtc1O9fpAWFOGlQg9U/aQFV0upBFqh1IEqiIwVColAp9BBCpACoAAAAAAAAAAAAAGOkAMgAAAAAAAAAAAAAADIAAAAAAAAAAZADAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//Z);
+    
+    
+}
+header{
+    top: 0%;
+    height: 80px;
+   width: 100%;
+    position: fixed;
+    z-index: 2;
+   
+    font-size: 30px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-image: url(https://wallpaperaccess.com/full/637651.jpg);
+
+
+div {
+    border: 5px solid rgb(129, 41, 41);
+    display: inline-block;
+    width: 150px;
+    height: 225px; 
+padding: auto;
+margin: 10px;
+border-style: dashed;
+border-color: rgb(216, 206, 63);
+font-family: monospace;
+}
+
+   
+}
+p{
+    padding: 20px;
+    border: 2px;
+    border-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.obama{
+    padding-top: 5%;
+}
